@@ -13,3 +13,7 @@ Welcome to the open source dataset page for the PAL-SLAM2 paper! This dataset in
 ![Plaza Image](plaza.png)
 
 Fig. 1: Aerial view of the plaza
+
+## Sensor Description
+
+To be added.
