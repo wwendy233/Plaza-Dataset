@@ -8,4 +8,4 @@ Fig. 1: Aerial view of the plaza
 
 ## Sensor Details
 
-To be updated.
+*To be updated.*
