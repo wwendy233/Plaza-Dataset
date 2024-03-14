@@ -11,7 +11,7 @@ This dataset comprises images and Inertial Measurement Unit (IMU) data, etc. The
 
 ## Sensor Details
 
-*(The download link and the sensor details will be updated upon acceptance of the associated research paper. Please stay tuned for updates.)*
+*(The download links and the sensor details will be updated upon acceptance of the associated research paper. Please stay tuned for updates.)*
 
 ![Plaza Image](plaza.png)
 
