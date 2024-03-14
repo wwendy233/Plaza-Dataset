@@ -1,6 +1,6 @@
 # Plaza Dataset
 
-This dataset comprises images and Inertial Measurement Unit (IMU) data, etc. These sequences recorded at different times (day and night) in an open circular plaza. You can download them using the links below. 
+This dataset comprises images and Inertial Measurement Unit (IMU) data, etc. These sequences recorded at different times (day and night) in an open circular plaza. You can download them using the links below. Sensor parameters can be found in the [param.txt](param.txt) file.
 
 | Sequence | Time | Link |
 | --- | --- | --- |
@@ -12,3 +12,6 @@ This dataset comprises images and Inertial Measurement Unit (IMU) data, etc. The
 ![Plaza Image](plaza.png)
 
 Fig. 1: Aerial view of the plaza.
+
+## Sensor Details
+
