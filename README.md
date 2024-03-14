@@ -17,4 +17,4 @@ This dataset comprises images and Inertial Measurement Unit (IMU) data, etc. The
 
 ![Plaza Image](plaza.png)
 
-Fig. 1: Aerial view of the plaza
+Fig. 1: Aerial view of the plaza.
