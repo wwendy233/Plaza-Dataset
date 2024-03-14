@@ -13,7 +13,7 @@ This dataset comprises images and Inertial Measurement Unit (IMU) data, etc. The
 
 ## Sensor Details
 
-(To be updated.)
+*(To be updated.)*
 
 ![Plaza Image](plaza.png)
 
