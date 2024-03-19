@@ -1,7 +1,6 @@
 # Plaza Dataset
 
-This dataset comprises images and Inertial Measurement Unit (IMU) data, etc. These sequences recorded at different times (day and night) in an open circular plaza. You can download them using the links below. Sensor parameters can be found in the [param.txt](param.txt) file. The download link and the sensor details will be updated upon acceptance of the associated paper.
-
+Welcome to the open source dataset page for the PAL-SLAM2 paper! This dataset comprises images and Inertial Measurement Unit (IMU) data, etc. These sequences recorded at different times (day and night) in an open circular plaza. You can download them using the links below. Sensor parameters can be found in the [param.txt](param.txt) file.
 | Sequence | Time | Link |
 | --- | --- | --- |
 | Plaza1 | Day | [Download](https://pan.baidu.com/s/1v_GN1lRqnEdKcZ4MQCHUog) |
@@ -9,6 +8,7 @@ This dataset comprises images and Inertial Measurement Unit (IMU) data, etc. The
 | Plaza3 | Night | [Download](https://pan.baidu.com/s/1v_GN1lRqnEdKcZ4MQCHUog) |
 | Plaza4 | Night | [Download](https://pan.baidu.com/s/1v_GN1lRqnEdKcZ4MQCHUog) |
 
+*(The download link and the sensor details will be updated upon acceptance of the paper.)*
 
 ![Plaza Image](plaza.png)
 
