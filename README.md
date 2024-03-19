@@ -8,7 +8,7 @@ Welcome to the dataset page for the PAL-SLAM2 paper! This dataset comprises imag
 | Plaza3 | Night | [Download](https://pan.baidu.com/s/1v_GN1lRqnEdKcZ4MQCHUog) |
 | Plaza4 | Night | [Download](https://pan.baidu.com/s/1v_GN1lRqnEdKcZ4MQCHUog) |
 
-*(The download link and the sensor details will be updated upon acceptance of the paper.)*
+*(The download link and the sensor details will be updated upon acceptance of the paper. Thanks for your understanding.)*
 
 ![Plaza Image](plaza.png)
 
